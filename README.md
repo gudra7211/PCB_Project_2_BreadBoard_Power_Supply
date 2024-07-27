@@ -1,0 +1,3 @@
+# PCB_Project_2_BreadBoard_Power_Supply
+This KiCAD-designed PCB seamlessly integrates into breadboard rails, providing a convenient and efficient power source. Featuring dual voltage options of 5V and 3.3V, easily selectable through onboard switches, this PCB empowers rapid prototyping and experimentation. 
+This KiCAD-designed PCB seamlessly integrates into breadboard rails, providing a convenient and efficient power source. Featuring dual voltage options of 5V and 3.3V, easily selectable through onboard switches, this PCB empowers rapid prototyping and experimentation. Its streamlined design and direct breadboard compatibility enhance workspace organization and accelerate project development.
